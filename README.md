@@ -59,6 +59,8 @@ CSS centralizado (tabelas, botões, chips, formulários, swatches de cor).
 ## Prints
 <img width="1142" height="541" alt="image" src="https://github.com/user-attachments/assets/ac9ae421-31ca-4942-8ed9-a1952b1c4aa3" />
 
+<img width="993" height="337" alt="image" src="https://github.com/user-attachments/assets/58fd8ef2-7743-4949-ac67-c4edbb20021c" />
+
 <img width="998" height="331" alt="image" src="https://github.com/user-attachments/assets/5a81b5cc-a773-48d7-a096-c7f4a9c9943b" />
 
 <img width="995" height="551" alt="image" src="https://github.com/user-attachments/assets/990c2727-1ee7-483f-ae1d-65380cd79e86" />
