@@ -55,3 +55,12 @@ Exclui a cor e remove vínculos em user_colors (transação).
 
 `style.css`
 CSS centralizado (tabelas, botões, chips, formulários, swatches de cor).
+
+## Prints
+<img width="1142" height="541" alt="image" src="https://github.com/user-attachments/assets/ac9ae421-31ca-4942-8ed9-a1952b1c4aa3" />
+
+<img width="998" height="331" alt="image" src="https://github.com/user-attachments/assets/5a81b5cc-a773-48d7-a096-c7f4a9c9943b" />
+
+<img width="995" height="551" alt="image" src="https://github.com/user-attachments/assets/990c2727-1ee7-483f-ae1d-65380cd79e86" />
+
+<img width="1018" height="345" alt="image" src="https://github.com/user-attachments/assets/dce3565f-63be-409a-9f82-21b736c3b960" />
